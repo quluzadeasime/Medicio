@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\dto\u0027s\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\dto\u0027s\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\Migrations\\20240517130254_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240517130254_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69038D1-130F-4EB4-B7E7-151626DF7AD3}|Core\\Core.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69038D1-130F-4EB4-B7E7-151626DF7AD3}|Core\\Core.csproj|solutionrelative:core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\business\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE521ACC-D6A1-46C4-9FF5-3C13F1B56F62}|Data\\Data.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE521ACC-D6A1-46C4-9FF5-3C13F1B56F62}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\business\\exceptions\\doctornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|solutionrelative:business\\exceptions\\doctornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69038D1-130F-4EB4-B7E7-151626DF7AD3}|Core\\Core.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69038D1-130F-4EB4-B7E7-151626DF7AD3}|Core\\Core.csproj|solutionrelative:core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\business\\services\\abstracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\business\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|solutionrelative:business\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\business\\exceptions\\doctornullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426BD45-0185-493E-9BA6-71B2E3AC7827}|Business\\Business.csproj|solutionrelative:business\\exceptions\\doctornullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE521ACC-D6A1-46C4-9FF5-3C13F1B56F62}|Data\\Data.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\data\\repositoryconcretes\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE521ACC-D6A1-46C4-9FF5-3C13F1B56F62}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE521ACC-D6A1-46C4-9FF5-3C13F1B56F62}|Data\\Data.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE521ACC-D6A1-46C4-9FF5-3C13F1B56F62}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\medicioapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC4F4AE1-37E2-4DED-A71B-880C1684B3DF}|MedicioApp\\MedicioApp.csproj|solutionrelative:medicioapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69038D1-130F-4EB4-B7E7-151626DF7AD3}|Core\\Core.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\core\\repositoryabstracts\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69038D1-130F-4EB4-B7E7-151626DF7AD3}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69038D1-130F-4EB4-B7E7-151626DF7AD3}|Core\\Core.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69038D1-130F-4EB4-B7E7-151626DF7AD3}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE521ACC-D6A1-46C4-9FF5-3C13F1B56F62}|Data\\Data.csproj|c:\\users\\asime\\desktop\\new folder\\medicioapp\\data\\migrations\\20240517105336_createdoctortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE521ACC-D6A1-46C4-9FF5-3C13F1B56F62}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240517105336_createdoctortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MedicioApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MedicioApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAF8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:41:44.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MedicioApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAF4AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T14:16:40.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:15:47.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:13:59.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:15:35.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:19:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:13:39.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:15:59.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MedicioApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T13:04:00.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MedicioApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEsAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T14:01:38.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MedicioApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOkBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:54:57.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "MedicioApp\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T13:07:34.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\DTO\u0027s\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "MedicioApp\\DTO\u0027s\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\DTO\u0027s\\RegisterDTO.cs",
+              "RelativeToolTip": "MedicioApp\\DTO\u0027s\\RegisterDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:42:29.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\DTO\u0027s\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "MedicioApp\\DTO\u0027s\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\DTO\u0027s\\LoginDTO.cs",
+              "RelativeToolTip": "MedicioApp\\DTO\u0027s\\LoginDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:56:55.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240517130254_CreateUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\Migrations\\20240517130254_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240517130254_CreateUserTable.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\Migrations\\20240517130254_CreateUserTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240517130254_CreateUserTable.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:02:55.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Program.cs",
+              "RelativeDocumentMoniker": "MedicioApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Program.cs",
+              "RelativeToolTip": "MedicioApp\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:43:38.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Core\\Models\\User.cs",
+              "RelativeToolTip": "Core\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:42:42.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Services\\Concretes\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Services\\Concretes\\DoctorService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\DoctorService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:57:40.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:34:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T12:38:15.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:44:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DoctorNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\DoctorNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\DoctorNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\DoctorNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\DoctorNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:26:13.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedicioApp\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "MedicioApp\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:20:45.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:13:29.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Core\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Core\\Models\\Doctor.cs",
+              "RelativeToolTip": "Core\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:35:30.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Services\\Abstracts\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Services\\Abstracts\\IDoctorService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:55:28.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MedicioApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MedicioApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-17T11:12:56.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:07:02.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\ContentTypeException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\ContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\ContentTypeException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\ContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:05:17.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorNullException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\DoctorNullException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\DoctorNullException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Business\\Exceptions\\DoctorNullException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\DoctorNullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:03:02.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240517105336_createDoctorTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\Migrations\\20240517105336_createDoctorTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240517105336_createDoctorTable.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\Migrations\\20240517105336_createDoctorTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240517105336_createDoctorTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:53:36.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MedicioApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\MedicioApp\\appsettings.json",
+              "RelativeToolTip": "MedicioApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T10:42:14.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\RepositoryConcretes\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\RepositoryConcretes\\DoctorRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\DoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:41:27.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:41:11.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Core\\RepositoryAbstracts\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Core\\RepositoryAbstracts\\IDoctorRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IDoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:40:14.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\New folder\\MedicioApp\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:38:06.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
